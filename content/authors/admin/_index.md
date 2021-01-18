@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Yi Liu
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Ph.D. Student of Marketing
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: The Wharton School, University of Pennsylvania
+  url: https://www.wharton.upenn.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am a fourth-year Ph.D. Student of Marketing at the Wharton School, University of Pennsylvania. My major research interest lies in understanding the managerial implications of artificial intelligence (AI), especially in marketing contexts.
 
 # Interests to show in About widget
 interests:
