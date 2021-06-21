@@ -28,7 +28,8 @@ abstract: This paper develops a theoretical model to study the economic incentiv
 one under subscription does, as the latter can always internalize the benefits of a better technology. This means that platforms under different revenue models can have different incentives to improve their content moderation technology.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: This paper develops a theoretical model to study the economic incentives for a social media platform to moderate user-generated content. We show that a self-interested platform can use content moderation as an effective marketing tool to expand its installed user base, to increase the utility of its users, and to achieve its positioning as a moderate or extreme content platform. Furthermore, we show that a platform under advertising does not necessarily benefit from a better technology for content moderation, but
+one under subscription does, as the latter can always internalize the benefits of a better technology. This means that platforms under different revenue models can have different incentives to improve their content moderation technology.
 
 tags: []
 
