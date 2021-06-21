@@ -77,7 +77,7 @@ projects:
 slides: example
 ---
 
----
+
 title: "An example conference paper"
 
 # Authors
